@@ -32,3 +32,15 @@ pytest>=7.4.0
 
 # Environment variable management
 python-dotenv>=1.0.1
+
+# Windows + CUDA 12.1 stack for GPU Acceleration
+--extra-index-url https://download.pytorch.org/whl/cu121
+torch==2.3.1+cu121
+torchvision==0.18.1+cu121
+torchaudio==2.3.1+cu121
+
+transformers==4.51.3
+tokenizers==0.21.0
+accelerate==0.34.2
+safetensors>=0.4.5
+huggingface_hub>=0.30.0

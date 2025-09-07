@@ -1,0 +1,57 @@
+call_id,utterance_no,speaker,text,hits,idx
+04bec80f-8614-484b-8ba2-831ff9dd03ef,7,agent,"Options? Don't give me that crap. You need to pay up, plain and simple!","[{'type': 'word', 'start': 28, 'end': 32, 'substr': 'crap'}]",6
+04bec80f-8614-484b-8ba2-831ff9dd03ef,9,agent,Payment plan? Who the hell do you think you are? Just pay the damn balance!,"[{'type': 'word', 'start': 62, 'end': 66, 'substr': 'damn'}]",8
+20690906-b8d4-40c5-8474-9127c47b1299,8,customer,I don’t give a damn! I won’t pay a cent until I get my money back!,"[{'type': 'word', 'start': 15, 'end': 19, 'substr': 'damn'}]",7
+214c92cc-3141-404d-8224-c1b05acc345c,7,agent,A payment plan? Seriously? You expect me to just let you slide? Do you have any idea how much we deal with this crap?,"[{'type': 'word', 'start': 112, 'end': 116, 'substr': 'crap'}]",6
+29489f77-b8e0-462c-9286-9216d59890f1,7,agent,"Listen, lady, you’ve got to sort your shit out. This isn’t a charity.","[{'type': 'word', 'start': 38, 'end': 42, 'substr': 'shit'}]",6
+29489f77-b8e0-462c-9286-9216d59890f1,9,agent,"I don’t give a damn what you need! You owe money, and you better pay it!","[{'type': 'word', 'start': 15, 'end': 19, 'substr': 'damn'}]",8
+2f279983-ea96-4c10-a09d-4b607de21a38,3,agent,"Listen up, I need you to verify your date of birth before I can discuss your damn account.","[{'type': 'word', 'start': 77, 'end': 81, 'substr': 'damn'}]",2
+2f279983-ea96-4c10-a09d-4b607de21a38,5,agent,"Great, but you're lucky I even have time for this crap. You owe us over $300.","[{'type': 'word', 'start': 50, 'end': 54, 'substr': 'crap'}]",4
+2f279983-ea96-4c10-a09d-4b607de21a38,7,agent,A payment plan? Are you kidding me? Just pay the damn thing off already!,"[{'type': 'word', 'start': 49, 'end': 53, 'substr': 'damn'}]",6
+3e6dde01-1a46-42b4-92dd-0a211185e660,6,customer,Why don’t you shove it? I’m not telling you a damn thing!,"[{'type': 'word', 'start': 46, 'end': 50, 'substr': 'damn'}]",5
+3e77de75-66b9-4b74-a993-1c25b6850bc9,2,customer,What the hell do you want? I'm not in the mood for this crap!,"[{'type': 'word', 'start': 56, 'end': 60, 'substr': 'crap'}]",1
+4f05aaff-585f-485f-90a1-60d027ec6e46,7,agent,You say that every damn time! What’s stopping you from sorting this out now?,"[{'type': 'word', 'start': 19, 'end': 23, 'substr': 'damn'}]",6
+4f05aaff-585f-485f-90a1-60d027ec6e46,11,agent,Professional? You think I’m playing games? Get your shit together!,"[{'type': 'word', 'start': 52, 'end': 56, 'substr': 'shit'}]",10
+50abe040-847c-47e1-962f-a00d7ff2cfe4,11,agent,"Professionally? This is a debt collection call, not a tea party! Pay your damn bills!","[{'type': 'word', 'start': 74, 'end': 78, 'substr': 'damn'}]",10
+50abe040-847c-47e1-962f-a00d7ff2cfe4,15,agent,Fine! But you’re only digging yourself deeper with this crap. Bye!,"[{'type': 'word', 'start': 56, 'end': 60, 'substr': 'crap'}]",14
+584fd5cd-adaa-4315-bf67-ad56d02d135e,2,customer,What the hell do you want? I’m not in the mood for this crap!,"[{'type': 'word', 'start': 56, 'end': 60, 'substr': 'crap'}]",1
+5e231fa2-03d8-4e70-9918-da45193472a9,9,agent,Feasible? Stop giving me excuses. Just pick a damn payment method!,"[{'type': 'word', 'start': 46, 'end': 50, 'substr': 'damn'}]",8
+708878fa-108e-4c22-b7bf-1d5c38227087,2,customer,What the hell do you want? I'm sick of this crap!,"[{'type': 'word', 'start': 44, 'end': 48, 'substr': 'crap'}]",1
+8598c6d9-a767-4120-af0a-5490357c72f3,2,customer,What the f*** do you want? I'm not in the mood for your crap!,"[{'type': 'word', 'start': 56, 'end': 60, 'substr': 'crap'}]",1
+8598c6d9-a767-4120-af0a-5490357c72f3,8,customer,I'm not paying a damn thing! You can shove it up your a**!,"[{'type': 'word', 'start': 17, 'end': 21, 'substr': 'damn'}]",7
+87e28dae-2c70-4122-9452-6ec82164fab2,11,agent,Options? How about you just stop being so damn lazy and settle your debt? That's an option!,"[{'type': 'word', 'start': 42, 'end': 46, 'substr': 'damn'}]",10
+87e28dae-2c70-4122-9452-6ec82164fab2,13,agent,Respectful? You think I owe you respect? Pay your damn bills and maybe I will!,"[{'type': 'word', 'start': 50, 'end': 54, 'substr': 'damn'}]",12
+89d28c5a-f0da-41e9-a93e-0a749c20189c,9,agent,Trying to resolve it? You think this is a joke? Pay your damn bill or face the consequences!,"[{'type': 'word', 'start': 57, 'end': 61, 'substr': 'damn'}]",8
+89d28c5a-f0da-41e9-a93e-0a749c20189c,11,agent,Work together? You think I have time for this crap? Just give me your credit card info!,"[{'type': 'word', 'start': 46, 'end': 50, 'substr': 'crap'}]",10
+89d28c5a-f0da-41e9-a93e-0a749c20189c,15,agent,Good luck with that! Just don’t come crying to me when you end up in deeper shit!,"[{'type': 'word', 'start': 76, 'end': 80, 'substr': 'shit'}]",14
+8ae8018c-15b3-46f6-9713-f956505735ec,2,customer,What the hell do you want? I’m not in the mood for your crap!,"[{'type': 'word', 'start': 56, 'end': 60, 'substr': 'crap'}]",1
+9505f0e7-5404-4f50-a497-35a9e899197c,1,agent,"Hello, this is Mark from XYZ Collections. I need to talk about your damn overdue account. How's that for a nice greeting?","[{'type': 'word', 'start': 68, 'end': 72, 'substr': 'damn'}]",0
+9505f0e7-5404-4f50-a497-35a9e899197c,3,agent,Listen up! I don't have time for this crap. Just verify your freaking address so we can get this over with.,"[{'type': 'word', 'start': 38, 'end': 42, 'substr': 'crap'}]",2
+966d60ed-9111-4e44-876d-6fcc3d78773e,9,agent,Calmly? You think I'm in the mood for that shit? You owe money! Just pay up!,"[{'type': 'word', 'start': 43, 'end': 47, 'substr': 'shit'}]",8
+972a9eec-e801-459f-9cfa-997f7c42ebad,2,customer,What the hell do you want? I’m not in the mood for this crap!,"[{'type': 'word', 'start': 56, 'end': 60, 'substr': 'crap'}]",1
+972a9eec-e801-459f-9cfa-997f7c42ebad,6,customer,It's none of your damn business! You’re all a bunch of crooks!,"[{'type': 'word', 'start': 18, 'end': 22, 'substr': 'damn'}]",5
+9a6cb7d2-c697-43a0-8cad-4194dfb44c92,11,agent,"Well, you better get your shit together and stop dodging this. It's pathetic!","[{'type': 'word', 'start': 26, 'end': 30, 'substr': 'shit'}]",10
+9a6cb7d2-c697-43a0-8cad-4194dfb44c92,15,agent,Professional? You think I give a damn about being professional with a deadbeat like you?,"[{'type': 'word', 'start': 33, 'end': 37, 'substr': 'damn'}]",14
+a76b5b3b-4e50-4e54-9a9e-9bbf6454f743,8,customer,Settle it? You must be out of your mind if you think I'm paying you a damn cent!,"[{'type': 'word', 'start': 70, 'end': 74, 'substr': 'damn'}]",7
+ab6ec93c-09e1-4b88-8777-574ceb28cd05,2,customer,What the hell do you want? I don’t have time for your crap!,"[{'type': 'word', 'start': 54, 'end': 58, 'substr': 'crap'}]",1
+ab6ec93c-09e1-4b88-8777-574ceb28cd05,10,customer,I don't have the damn money right now!,"[{'type': 'word', 'start': 17, 'end': 21, 'substr': 'damn'}]",9
+b155951b-086d-4f20-8fb5-de3e42253ce6,4,customer,Help? What a joke! You people are the worst! I don’t owe you a damn thing!,"[{'type': 'word', 'start': 63, 'end': 67, 'substr': 'damn'}]",3
+b70866a2-2f46-4784-992b-74d6dc60806e,12,customer,"You’re really pissing me off with this shit! Fine, it’s 12345!","[{'type': 'word', 'start': 39, 'end': 43, 'substr': 'shit'}]",11
+b70866a2-2f46-4784-992b-74d6dc60806e,14,customer,I’m not paying a damn thing today!,"[{'type': 'word', 'start': 17, 'end': 21, 'substr': 'damn'}]",13
+b8628a31-ef89-4218-b2a2-3058dbc4b106,2,customer,What the hell do you want? I'm not in the mood for this crap!,"[{'type': 'word', 'start': 56, 'end': 60, 'substr': 'crap'}]",1
+b8628a31-ef89-4218-b2a2-3058dbc4b106,10,customer,I don’t have to pay a damn thing! You can go to hell!,"[{'type': 'word', 'start': 22, 'end': 26, 'substr': 'damn'}]",9
+bf973b43-76ec-41a6-af68-a3b4bc4b69b3,9,agent,"I’ll talk however I want! This is a serious matter, you need to get your shit together.","[{'type': 'word', 'start': 73, 'end': 77, 'substr': 'shit'}]",8
+bf973b43-76ec-41a6-af68-a3b4bc4b69b3,15,agent,Go ahead! I don’t give a damn! You think I’m scared of complaints?,"[{'type': 'word', 'start': 25, 'end': 29, 'substr': 'damn'}]",14
+c67274cc-d920-467a-80cc-476c9dd280d4,5,agent,Great! You've got an outstanding balance of $500. When are you gonna pay this shit off?,"[{'type': 'word', 'start': 78, 'end': 82, 'substr': 'shit'}]",4
+d071bb49-40f8-4bae-8c6d-cfc0d4a011d5,4,customer,You can shove it! I'm not paying a damn thing!,"[{'type': 'word', 'start': 35, 'end': 39, 'substr': 'damn'}]",3
+d071bb49-40f8-4bae-8c6d-cfc0d4a011d5,6,customer,I don't give a crap about your stupid questions!,"[{'type': 'word', 'start': 15, 'end': 19, 'substr': 'crap'}]",5
+d3ee9bf9-cf64-468a-83da-fac5c6fb7a41,10,customer,You think I give a damn about your plans? I’m not paying a penny!,"[{'type': 'word', 'start': 19, 'end': 23, 'substr': 'damn'}]",9
+d6a3e0da-171f-4744-ba2b-7298f2604e7f,8,customer,I don’t have time for this crap! I’m not paying anything!,"[{'type': 'word', 'start': 27, 'end': 31, 'substr': 'crap'}]",7
+d7bbea61-d739-43fb-a198-ced1b59f9491,4,customer,Why the fuck would I give you anything? You're just some low-life calling me!,"[{'type': 'word', 'start': 8, 'end': 12, 'substr': 'fuck'}]",3
+d7bbea61-d739-43fb-a198-ced1b59f9491,6,customer,Settle this? You guys are a bunch of crooks! I don't owe you shit!,"[{'type': 'word', 'start': 61, 'end': 65, 'substr': 'shit'}]",5
+d7bbea61-d739-43fb-a198-ced1b59f9491,8,customer,Fuck you! You think I'm gonna pay you just because you say so?,"[{'type': 'word', 'start': 0, 'end': 4, 'substr': 'Fuck'}]",7
+e0a8f9d2-92d6-4093-bb97-82182c6e850f,5,agent,"Alright, you have a balance of $1,200. It's time to settle this shit. How are you going to pay today?","[{'type': 'word', 'start': 64, 'end': 68, 'substr': 'shit'}]",4
+e0a8f9d2-92d6-4093-bb97-82182c6e850f,7,agent,"Calmly? Seriously? You owe us money, and you're talking about 'calmly'? Just get your shit together and pay up!","[{'type': 'word', 'start': 86, 'end': 90, 'substr': 'shit'}]",6
+e0a8f9d2-92d6-4093-bb97-82182c6e850f,13,agent,"You're wasting my time. Just give me a damn date when you'll pay, or I’ll escalate this further!","[{'type': 'word', 'start': 39, 'end': 43, 'substr': 'damn'}]",12
+e835306a-d904-4271-8a11-5a50ce98ed90,2,customer,What the hell do you want? I've had enough of your crap!,"[{'type': 'word', 'start': 51, 'end': 55, 'substr': 'crap'}]",1
+e835306a-d904-4271-8a11-5a50ce98ed90,8,customer,I’m not paying you a damn thing! You can't make me!,"[{'type': 'word', 'start': 21, 'end': 25, 'substr': 'damn'}]",7

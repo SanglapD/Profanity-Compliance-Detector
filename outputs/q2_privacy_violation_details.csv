@@ -1,0 +1,35 @@
+call_id,utterance_no,reason,text,idx
+0bf6844f-af6a-4e46-8d72-9ec01e4bc99a,7,sensitive_before_verification,No problem! I can look it up with your name. You've got an outstanding balance of $250. Would you like to discuss payment options?,6
+0e2d1981-bd63-4fdd-a4ef-075732cbf26b,5,sensitive_before_verification,"Thank you, Alex. You have a balance of $250 due on your account. How would you like to settle this today?",4
+1190bab7-d82f-4259-bb55-9617dff7da07,5,sensitive_before_verification,"Thank you, Alex. I see here you have a balance of $500 due. Would you like to discuss payment options?",4
+12968330-6da1-4860-b418-417794f640c6,5,sensitive_before_verification,Thank you. I see here that you have an outstanding balance of $250. How do you want to handle it today?,4
+2ea925db-df94-4d9b-bd72-6c227742569d,7,sensitive_before_verification,Sure! Your current balance is $350. How would you like to proceed with this payment?,6
+2ea925db-df94-4d9b-bd72-6c227742569d,13,sensitive_before_verification,"Alright, I understand. Your balance remains $350 and we can split it into smaller payments if that helps.",12
+40b40ec2-8ce2-47a8-b9d4-621285d7b484,5,sensitive_before_verification,"Thank you, Lisa. You currently have a balance of $450. How would you like to proceed with the payment?",4
+4832c70d-36a2-40be-a926-b596fd71dafe,2,sensitive_before_verification,"Hello, John. This is Sarah from Apex Collections. I'm calling about your overdue balance with your account. Please call us back at 1-800-555-0199.",1
+50abe040-847c-47e1-962f-a00d7ff2cfe4,7,sensitive_before_verification,"You don’t even know how much you owe? Pathetic. It’s $500, and you need to pay it now.",6
+55f06ad3-1c58-4853-8bbb-34b7b97bcbd7,5,sensitive_before_verification,"Thank you, Ms. Thompson. Now, you have an outstanding balance of $500. How would you like to settle this today?",4
+5b8dc067-9564-4e0f-b27f-a54f661c36bd,5,sensitive_before_verification,Thank you. You currently have an outstanding balance of $500. When can we expect payment?,4
+5c0bf9ad-669f-4a26-8c08-4af6f9698cf0,5,sensitive_before_verification,"Thank you, John. I see that your current balance is $450. Would you like to discuss payment options?",4
+65f99be3-1a8a-4f1f-91f0-7f3a4fe4235b,5,sensitive_before_verification,"Thank you, Jordan. Your account shows a balance of $750. How would you like to settle this today?",4
+6938c9af-5440-4fd9-a9f9-0db58e211057,5,sensitive_before_verification,"Thank you, Jessica. Your current balance is $450. How would you like to address this today?",4
+6e8d1602-d83d-4c06-8144-2f77ededeb7e,7,sensitive_before_verification,Thank you. Your current balance is $450. When do you plan to make a payment?,6
+742147aa-a2df-4429-859e-05b4a7875563,5,sensitive_before_verification,"Thank you for that. Now, your current balance is $500. Would you like to discuss payment options?",4
+8e34b537-4076-4736-b07f-5437c2379e57,5,sensitive_before_verification,You currently have a balance of $450. How would you like to proceed with payment?,4
+9e936113-46a1-4d70-9cc5-876b1c801602,5,sensitive_before_verification,"Thank you, John. You have a balance of $350 due. How do you plan to handle this today?",4
+b155951b-086d-4f20-8fb5-de3e42253ce6,7,sensitive_before_verification,I can assure you that we want to resolve this matter. Your current balance is $500.,6
+b6eb2096-6102-431d-b0df-4a87310d46c4,5,sensitive_before_verification,Thank you for that. I see here you have an outstanding balance of $450. Would you like to settle that today?,4
+bd8b74d4-c630-4bb0-ac61-f3c8042f583c,7,sensitive_before_verification,"Thank you, John. Your current balance is $550. How do you intend to settle this?",6
+bf973b43-76ec-41a6-af68-a3b4bc4b69b3,7,sensitive_before_verification,"Whatever, I just want to get this over with. Your account balance is $1,200, you better have a plan.",6
+c46407f6-d657-47ab-9ed7-1c31d5cc8a4e,5,sensitive_before_verification,"Thank you, Mr. Johnson. I see you have a balance of $450. Can we discuss payment options?",4
+c67274cc-d920-467a-80cc-476c9dd280d4,5,sensitive_before_verification,Great! You've got an outstanding balance of $500. When are you gonna pay this shit off?,4
+ce11850d-6743-47cc-be50-2ffda1d2ea0e,7,sensitive_before_verification,"Thank you, Jamie. I see here you have an outstanding balance of $400 on your account. How would you like to proceed?",6
+d071bb49-40f8-4bae-8c6d-cfc0d4a011d5,9,sensitive_before_verification,"Right now, your account shows a balance of $500. It’s crucial to discuss your options to resolve this.",8
+d3ee9bf9-cf64-468a-83da-fac5c6fb7a41,7,sensitive_before_verification,"I assure you, I'm here to help you resolve this. You currently have a balance of $800.",6
+d7bbea61-d739-43fb-a198-ced1b59f9491,5,sensitive_before_verification,"I assure you, I'm here to help resolve this matter. Your current balance is $500. How do you prefer to settle this?",4
+dbd3e2fd-4a8f-4eb3-aa6f-befcc150bfd8,5,sensitive_before_verification,Sure! You have an overdue balance of $450. How do you wish to handle this?,4
+e4ab6a0c-49a4-41a7-9448-f48c5ff25d87,5,sensitive_before_verification,Thank you! You have a balance of $250 that is past due. When can we expect payment?,4
+e96bd606-4673-43e3-b04b-f6a474bb86a0,5,sensitive_before_verification,I need to inform you that you have an outstanding balance of $500. How would you like to proceed?,4
+ecf48f31-9a97-4042-bd79-0c24e6ecb4af,5,sensitive_before_verification,"Thank you, John. You currently have a balance of $250. How would you like to handle that today?",4
+ecf48f31-9a97-4042-bd79-0c24e6ecb4af,9,sensitive_before_verification,This is regarding your account ending in 1234. Does that sound familiar?,8
+f5f05257-aaa0-4194-b84c-36339c4e0659,7,sensitive_before_verification,"Thanks for verifying that. You have an outstanding balance of $1,200. What the hell are you planning to do about it?",6

@@ -3,8 +3,8 @@ import streamlit as st
 import pandas as pd
 import os
 
-PATTERN_CSV_PATH = "regex_summary.csv"
-ML_CSV_PATH = "gemini_summary.csv"
+PATTERN_CSV_PATH = "./outputs/regex_summary.csv"
+ML_CSV_PATH = "./outputs/gemini_summary.csv"
 
 def _as_bool_series(series: pd.Series, length: int) -> pd.Series:
     if series is None:
@@ -16,7 +16,6 @@ def _as_bool_series(series: pd.Series, length: int) -> pd.Series:
          "false": False, "0": False, "no": False, "n": False}
     ).fillna(False)
 
-@st.cache_data
 def load_csv_from_path(path: str) -> pd.DataFrame:
     if not path or not os.path.exists(path):
         return pd.DataFrame()
